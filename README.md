@@ -12,3 +12,5 @@ https://roxyvaught.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Roxy
+
+#Run Buddy Inc. 
