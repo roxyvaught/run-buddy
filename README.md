@@ -1,7 +1,7 @@
-# run-buddy
+# Run Buddy
 
 ## Purpose 
-A website that offers fitness training services 
+A website offering physical fitness services. The trainers, pricing, and location are displayed. 
 
 ## Built with 
 * HTML
@@ -13,8 +13,5 @@ https://roxyvaught.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Roxy
 
-<<<<<<< HEAD
-#Run Buddy Inc. 
-=======
 ### ©️2019 Run Buddy, Inc
->>>>>>> 8721048c5fc6165c4c0d51b20b1cf1ce3096960d
+
